@@ -1,0 +1,63 @@
+
+.attribution { 
+    font-size: 11px; 
+    
+    
+  }
+  body{
+    font-size: 15px;
+    text-align: center;
+    display:inline-block;
+    width:21.5rem;
+    height: 33.33rem;
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+    color:hsl(220, 15%, 55%);
+    font-weight: 400;
+    padding-top: 18%;
+    padding-bottom: 18%;
+    padding-left: 38%;
+    padding-right: 38%;
+    
+  }
+  #main{
+    background-color: hsl(0,0%,100%);
+    padding-bottom: 42px;
+    border-radius: 5.69%;
+    
+  }
+  img{
+    width: 91.2% ;
+    height: auto;
+    padding: 4.4% 4.4%;
+    border-radius: 8.8%;
+  }
+  .attribution a { color: hsl(228, 45%, 44%);text-decoration: none; }
+  #bio{
+    font-size: 22px;
+    color: black;
+    font-weight:700;
+    padding-bottom: 1.4rem;
+  }
+
+@font-face {
+  font-family:"Outfit";
+  src: 
+       
+
+       
+       url("Outfit/static/Outfit-Regular.ttf"),
+       
+
+}
+#Ad , #bio{
+  width: 17.8rem;
+  padding-left: 1.86rem;
+  padding-right: 1.86rem;
+}
+/*@media (max-width:1024) {
+  body{
+    font-size: 10.6px;
+  }
+  
+}
