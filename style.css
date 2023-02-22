@@ -60,7 +60,10 @@
     font-size: 10.6px;
     background-color:green;
     width:87.5%;
-    
+    padding-top: 18%;
+    padding-bottom: 18%;
+    padding-left: 8.3%;
+    padding-right: 8.3%;
   }
   
 }
