@@ -55,17 +55,17 @@
   padding-left: 1.86rem;
   padding-right: 1.86rem;
 }
-@media(max-width:375px) {
+@media and (max-width:375px) {
   body{
     
     background-color:green;
-    width:90%;
+
     padding-top: 18%;
     padding-bottom: 18%;
     padding-left: 5%;
     padding-right: 5%;
   }
-  #Ad,#bio{
-}
-  Width:90%
-}
+  #main{
+    width:98%;  
+  }
+    
