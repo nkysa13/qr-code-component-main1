@@ -18,8 +18,8 @@
     padding-bottom: 18%;
     padding-left: 38%;
     padding-right: 38%;
-    overflow-x: hidden;
-    overflow-y: auto;
+    overflow: hidden;
+
   }
   #main{
     background-color: hsl(0,0%,100%);
