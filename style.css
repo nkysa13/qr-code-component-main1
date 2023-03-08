@@ -58,7 +58,7 @@
 }
 @media (max-width:375px) {
  body{
-  
+  width:auto;
   padding:1% 1% 1% 1%;
  }
  #main{
