@@ -63,8 +63,10 @@
 }
 @media (max-width:375px) {
  body{
+  font-size: 11px;
   max-width:375px;
   padding:1% 1% 1% 1%;
+  background-color: green;
  }
  #main{
   width:98%;
