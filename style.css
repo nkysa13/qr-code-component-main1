@@ -1,24 +1,29 @@
 
 .attribution { 
-    font-size: 11px; 
+    /*pc-style*/font-size: 11px; 
     
     
   }
   body{
+    /*pc-style*/
     font-size: 15px;
     text-align: center;
     display:inline-block;
     width:21.5rem;
     height: 33.33rem;
-    background-color: hsl(212, 45%, 89%);
-    font-family: Outfit;
-    color:hsl(220, 15%, 55%);
+    
+    
     font-weight: 400;
     padding-top: 18%;
     padding-bottom: 18%;
     padding-left: 38%;
     padding-right: 38%;
+    /*.*/
     overflow: hidden;
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+    color:hsl(220, 15%, 55%);
+
 
   }
   #main{
@@ -58,7 +63,7 @@
 }
 @media (max-width:375px) {
  body{
-  width:auto;
+  max-width:375px;
   padding:1% 1% 1% 1%;
  }
  #main{
