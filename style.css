@@ -72,6 +72,8 @@
   width:98%;
  }
  #Ad,#bio{
-  width:91%
+  width:91%;
+  padding-left: 1%;
+  padding-right: 1%;
  }
   }
