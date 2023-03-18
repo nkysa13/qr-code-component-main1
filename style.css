@@ -67,6 +67,8 @@
   display:inline;
   padding:1% 1% 1% 1%;
   background-color: green;
+  width:98%;
+  height:auto;
  }
  #main{
   width:98%;
