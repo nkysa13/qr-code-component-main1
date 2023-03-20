@@ -9,8 +9,8 @@
     font-size: 15px;
     text-align: center;
     display:inline-block;
-    width:22.43%;
-    height: 34.72%;
+    width:21.5rem;
+    height: 33rem;
     
     
     font-weight: 400;
@@ -57,9 +57,9 @@
 
 }
 #Ad , #bio{
-  width: 17.8rem;
-  padding-left: 1.86rem;
-  padding-right: 1.86rem;
+  width: 98%;
+  padding-left: 1%;
+  padding-right: 1%;
 }
 @media (max-width:375px) {
  body{
