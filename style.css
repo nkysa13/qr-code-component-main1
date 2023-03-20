@@ -1,3 +1,5 @@
+@media  screen and (min-width:375px) {
+  
 
 .attribution { 
     /*pc-style*/font-size: 11px; 
@@ -60,6 +62,7 @@
   width: 98%;
   padding-left: 1%;
   padding-right: 1%;
+}
 }
 @media (max-width:375px) {
  body{
