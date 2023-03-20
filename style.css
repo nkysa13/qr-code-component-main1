@@ -1,4 +1,4 @@
-@media  screen and (min-width:375px) {
+
   
 
 .attribution { 
@@ -63,7 +63,7 @@
   padding-left: 1%;
   padding-right: 1%;
 }
-}
+
 @media (max-width:375px) {
  body{
   font-size: 11px;
