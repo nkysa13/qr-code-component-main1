@@ -1,13 +1,13 @@
-
+/*
   
 
 .attribution { 
-    /*pc-style*/font-size: 11px; 
+    font-size: 11px; 
     
     
   }
   body{
-    /*pc-style*/
+    
     font-size: 15px;
     text-align: center;
     display:inline-block;
@@ -20,8 +20,8 @@
     padding-bottom: 18%;
     padding-left: 38%;
     padding-right: 38%;
-    /*.*/
-    overflow: hidden;
+    
+    
     background-color: hsl(212, 45%, 89%);
     font-family: Outfit;
     color:hsl(220, 15%, 55%);
@@ -62,7 +62,7 @@
   width: 98%;
   padding-left: 1%;
   padding-right: 1%;
-}
+}*/
 
 @media (max-width:375px) {
  body{
