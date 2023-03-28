@@ -51,18 +51,15 @@
 @font-face {
   font-family:"Outfit";
   src: 
-       
-
-       
-       url("Outfit/static/Outfit-Black.ttf"),
-       url("Outfit/static/Outfit-Bold.ttf"),
-       url("Outfit/static/Outfit-ExtraBold.ttf"),
-       url("Outfit/static/Outfit-ExtraLight.ttf"),
-       url("Outfit/static/Outfit-Light.ttf"),
-       url("Outfit/static/Outfit-Medium.ttf"),
-       url("Outfit/static/Outfit-Regular.ttf"),
-       url("Outfit/static/Outfit-SemiBold.ttf"),
-       url("Outfit/static/Outfit-Thin.ttf");
+      url("Outfit/static/Outfit-Black.ttf"),
+      url("Outfit/static/Outfit-Bold.ttf"),
+      url("Outfit/static/Outfit-ExtraBold.ttf"),
+      url("Outfit/static/Outfit-ExtraLight.ttf"),
+      url("Outfit/static/Outfit-Light.ttf"),
+      url("Outfit/static/Outfit-Medium.ttf"),
+      url("Outfit/static/Outfit-Regular.ttf"),
+      url("Outfit/static/Outfit-SemiBold.ttf"),
+      url("Outfit/static/Outfit-Thin.ttf");
 
 }
 #Ad , #bio{
