@@ -10,7 +10,7 @@
     
     font-size: 15px;
     text-align: center;
-    display:inline-block;
+    display:block;
     width:21.5rem;
     height: 33rem;
     
@@ -87,5 +87,8 @@
   width:91%;
   padding-left: 1%;
   padding-right: 1%;
+ }
+ img{
+  width:87.6%;
  }
   }
