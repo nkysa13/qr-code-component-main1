@@ -63,9 +63,10 @@
 
 }
 #Ad , #bio{
-  width: 98%;
+  width: 87%;
   padding-left: 1%;
   padding-right: 1%;
+  display: inline-block;
 }
 
 @media (max-width:720px) {
@@ -79,9 +80,10 @@
  #main{
   width: 100%;
   height: 100%;
+  
  }
  #Ad,#bio{
-  width:100%;
+  width:85%;
   padding: 0px;
   
  }
