@@ -70,12 +70,10 @@
 
 @media (max-width:720px) {
  body{
-  font-size: 13px;
   display: block;
   padding:0px;
   width:90%;
   height:100%;
-  font-weight: 100;
   margin: 79px 25px 79px 25px;
  }
  #main{
