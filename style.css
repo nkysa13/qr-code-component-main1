@@ -69,7 +69,7 @@
   display: inline-block;
 }
 
-@media (max-width:720px) {
+@media (max-width:4.5in) {
  body{
   display: block;
   padding:0px;
