@@ -10,16 +10,13 @@
     
     font-size: 15px;
     text-align: center;
-    display:block;
+    display:grid;
     width:21.5rem;
     height: 33rem;
-    
+    place-items: center;
     
     font-weight: 400;
-    padding-top: 18%;
-    padding-bottom: 18%;
-    padding-left: 38%;
-    padding-right: 38%;
+    
     
     
     background-color: hsl(212, 45%, 89%);
@@ -75,7 +72,7 @@
   padding:0px;
   width:90%;
   height:100%;
-  margin: 79px 25px 79px 25px;
+  
  }
  #main{
   width: 100%;
