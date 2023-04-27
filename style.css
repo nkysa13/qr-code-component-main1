@@ -1,85 +1,65 @@
+.attribution {
+  font-size: 11px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
 
+body {
+  font-size: 16px;
+  text-align: center;
+  display: grid;
+  min-height: 100vh;
+  margin: 0;
+  place-items: center;
+  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit;
+}
+
+main {
+  background-color: hsl(0, 0%, 100%);
+  display: grid;
+  text-align: center;
+  max-width: 20rem;
+  border-radius: 5.69%;
+  justify-items: center;
+  padding: 1rem;
+}
+
+img {
+  max-width: 100%;
   
-
-.attribution { 
-    font-size: 11px; 
-    
-    
-  }
-  body{
-    
-    font-size: 15px;
-    text-align: center;
-    display:grid;
-    min-height: 100vh;
-    margin: 0;
-    place-items: center;
-    font-weight: 400;
-    
-    
-    
-    background-color: hsl(212, 45%, 89%);
-    font-family: Outfit;
-    color:hsl(220, 15%, 55%);
+  
+  
+}
 
 
-  }
-  #main{
-    background-color: hsl(0,0%,100%);
-    display: grid;
-    width:21.5rem;
-    height: 33rem;
-    border-radius: 5.69%;
-    
-  }
-  img{
-    width: 91.2% ;
-    height: auto;
-    padding: 4.4% 4.4%;
-    border-radius: 8.8%;
-  }
-  .attribution a { color: hsl(228, 45%, 44%);text-decoration: none; }
-  #bio{
-    font-size: 22px;
-    color: black;
-    font-weight:700;
-    padding-bottom: 1.4rem;
-  }
+
+
 
 @font-face {
-  font-family:"Outfit";
-  src: 
-      url("Outfit/static/Outfit-Black.ttf"),
-      url("Outfit/static/Outfit-Bold.ttf"),
-      url("Outfit/static/Outfit-ExtraBold.ttf"),
-      url("Outfit/static/Outfit-ExtraLight.ttf"),
-      url("Outfit/static/Outfit-Light.ttf"),
-      url("Outfit/static/Outfit-Medium.ttf"),
-      url("Outfit/static/Outfit-Regular.ttf"),
-      url("Outfit/static/Outfit-SemiBold.ttf"),
-      url("Outfit/static/Outfit-Thin.ttf");
+  font-family: "Outfit";
+  src:
+    url("Outfit/static/Outfit-Black.ttf"),
+    url("Outfit/static/Outfit-Bold.ttf"),
+    url("Outfit/static/Outfit-ExtraBold.ttf"),
+    url("Outfit/static/Outfit-ExtraLight.ttf"),
+    url("Outfit/static/Outfit-Light.ttf"),
+    url("Outfit/static/Outfit-Medium.ttf"),
+    url("Outfit/static/Outfit-Regular.ttf"),
+    url("Outfit/static/Outfit-SemiBold.ttf"),
+    url("Outfit/static/Outfit-Thin.ttf");
 
 }
-#Ad , #bio{
-  width: 87%;
+
+p, h1 {
+  margin: 10px;
   
-  
+  padding: 0;
+}
+p{
+  margin-bottom: 10px;
+  font-size: 1rem;
+  color: hsl(220, 15%, 55%);
 }
 
-@media (max-width:4.5in) {
- body{
-  
-  padding:0px;
-  
-  min-height:100vh;
- }
-
- #Ad,#bio{
-  width:81.5%;
-  
-  
- }
- img{
-  width:87.6%;
- }
-  }
