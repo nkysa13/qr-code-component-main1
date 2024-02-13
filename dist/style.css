@@ -1,0 +1,68 @@
+.attribution {
+  font-size: 11px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  font-size: 16px;
+  text-align: center;
+  display: grid;
+  min-height: 100vh;
+  margin: 0;
+  place-items: center;
+  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit;
+}
+
+main {
+  background-color: hsl(0, 0%, 100%);
+  display: grid;
+  text-align: center;
+  max-width: 20rem;
+  border-radius: 5.69%;
+  justify-items: center;
+  padding: 1rem;
+}
+
+img {
+  max-width: 100%;
+  
+  
+  
+}
+
+
+
+
+
+@font-face {
+  font-family: "Outfit";
+  src:
+    url("Outfit/static/Outfit-Black.ttf"),
+    url("Outfit/static/Outfit-Bold.ttf"),
+    url("Outfit/static/Outfit-ExtraBold.ttf"),
+    url("Outfit/static/Outfit-ExtraLight.ttf"),
+    url("Outfit/static/Outfit-Light.ttf"),
+    url("Outfit/static/Outfit-Medium.ttf"),
+    url("Outfit/static/Outfit-Regular.ttf"),
+    url("Outfit/static/Outfit-SemiBold.ttf"),
+    url("Outfit/static/Outfit-Thin.ttf");
+
+}
+
+p, h1 {
+  width: 100%;
+  margin: 10px;
+  
+  
+}
+p{
+  
+  margin-bottom: 15px;
+  color: hsl(220, 15%, 55%);
+}
+h1{
+  font-weight:700 ;
+}
